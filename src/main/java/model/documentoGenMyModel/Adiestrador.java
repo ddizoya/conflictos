@@ -40,7 +40,7 @@ public class Adiestrador
 	 */
 	
 	public void dirigirAdestramiento() {
-		JOptionPane.showMessageDialog(null, "Este adiestrador está ocupado.");
+		JOptionPane.showMessageDialog(null, "Adiestrador.");
 	}
 	
 }
