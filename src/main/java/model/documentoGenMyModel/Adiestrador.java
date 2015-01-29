@@ -1,5 +1,7 @@
 package model.documentoGenMyModel;
 
+import javax.swing.JOptionPane;
+
 
 /**
  * Clase que recoge a los adiestradores de la selección de fútbol.
@@ -38,7 +40,7 @@ public class Adiestrador
 	 */
 	
 	public void dirigirAdestramiento() {
-		// TODO implement me	
+		JOptionPane.showMessageDialog(null, "Este adiestrador est� ocupado.");
 	}
 	
 }
