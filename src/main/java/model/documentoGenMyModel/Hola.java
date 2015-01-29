@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 public class Hola {
        
     public static void ver(){
-        JOptionPane.showConfirmDialog(null, "Esto es una prueba. ");
+        JOptionPane.showConfirmDialog(null, "Esto es una prueba..................... ");
     }
     
     public static void Damian(){
